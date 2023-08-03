@@ -1,3 +1,5 @@
 #!/snap/bin/ruby
 
-puts "Hello World!"
+name = "Henrik"
+
+puts "Hello World! from #{name}"

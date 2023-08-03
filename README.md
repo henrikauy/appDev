@@ -1,4 +1,4 @@
 # appDev
 Applications Development workshop 3.
 
-first ruby repository
+First ruby repository for workshop 3 by Henrik Au-Young.
